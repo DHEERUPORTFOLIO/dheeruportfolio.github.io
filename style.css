@@ -175,6 +175,8 @@ header .navbar ul li a:hover{
     padding: 1rem 0;
 }
 
+
+
 .about .row{
     display: flex;
     align-items: center;
@@ -368,6 +370,23 @@ header .navbar ul li a:hover{
     bottom:7.5rem; right: 2rem;
     z-index: 100;
     display: none;
+}
+
+.flex{
+    display: flex;
+    color:white;
+    list-style: none;
+    padding:5px;
+   
+}
+.flex li i {
+    font-size:30px;
+    padding:10px;
+    color:white;
+}
+.flex li i:hover{
+    color:#f9ca24;
+    
 }
 
 
